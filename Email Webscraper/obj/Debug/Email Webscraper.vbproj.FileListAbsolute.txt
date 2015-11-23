@@ -1,0 +1,15 @@
+C:\Users\Basil\AppData\Local\Temporary Projects\Webscraper\obj\Debug\Email Webscraper.vbprojResolveAssemblyReference.cache
+C:\Users\Basil\AppData\Local\Temporary Projects\Webscraper\obj\Debug\Webscraper.Form1.resources
+C:\Users\Basil\AppData\Local\Temporary Projects\Webscraper\obj\Debug\Webscraper.Resources.resources
+C:\Users\Basil\AppData\Local\Temporary Projects\Webscraper\obj\Debug\Email Webscraper.vbproj.GenerateResource.Cache
+C:\Users\Basil\Dropbox\Basil\Projects\Scraping\Email Webscraper\Email Webscraper\bin\Debug\Email Webscraper.exe.config
+C:\Users\Basil\Dropbox\Basil\Projects\Scraping\Email Webscraper\Email Webscraper\obj\Debug\Email Webscraper.vbprojResolveAssemblyReference.cache
+C:\Users\Basil\Dropbox\Basil\Projects\Scraping\Email Webscraper\Email Webscraper\obj\Debug\Webscraper.Form1.resources
+C:\Users\Basil\Dropbox\Basil\Projects\Scraping\Email Webscraper\Email Webscraper\obj\Debug\Webscraper.Resources.resources
+C:\Users\Basil\Dropbox\Basil\Projects\Scraping\Email Webscraper\Email Webscraper\obj\Debug\Email Webscraper.vbproj.GenerateResource.Cache
+C:\Users\Basil\Dropbox\Basil\Projects\Scraping\Email Webscraper\Email Webscraper\obj\Debug\Email Webscraper.xml
+C:\Users\Basil\Dropbox\Basil\Projects\Scraping\Email Webscraper\Email Webscraper\bin\Debug\Email Webscraper.exe
+C:\Users\Basil\Dropbox\Basil\Projects\Scraping\Email Webscraper\Email Webscraper\bin\Debug\Email Webscraper.pdb
+C:\Users\Basil\Dropbox\Basil\Projects\Scraping\Email Webscraper\Email Webscraper\bin\Debug\Email Webscraper.xml
+C:\Users\Basil\Dropbox\Basil\Projects\Scraping\Email Webscraper\Email Webscraper\obj\Debug\Email Webscraper.exe
+C:\Users\Basil\Dropbox\Basil\Projects\Scraping\Email Webscraper\Email Webscraper\obj\Debug\Email Webscraper.pdb

@@ -1,0 +1,43 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+Email Webscraper
+</name>
+</assembly>
+<members>
+<member name="T:Webscraper.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:Webscraper.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:Webscraper.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="M:Webscraper.Scraping.DownloadHtmlPage(System.String,System.Windows.Forms.TextBox)">
+ <summary>
+ This will download the html source from a website and will place it to a Textbox
+ </summary>
+ <param name="url">This is the Url that will be download into a textbox</param>
+ <param name="RichTextbox">This is the name of the textbox where you will save the html source code</param>
+ <remarks></remarks>
+</member>
+<member name="M:Webscraper.Scraping.ClearHtml(System.Windows.Forms.RichTextBox)">
+ <summary>
+ 
+ This will clear the html code so there are no break lines and you can modify the html code
+ 
+ </summary>
+ <param name="HtmlCode"></param>
+ <remarks></remarks>
+</member>
+</members>
+</doc>

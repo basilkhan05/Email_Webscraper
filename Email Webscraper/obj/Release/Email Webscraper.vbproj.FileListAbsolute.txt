@@ -1,0 +1,10 @@
+C:\Users\Basil\Dropbox\Basil\Projects\Scraping\Email Webscraper\Email Webscraper\bin\Release\Email Webscraper.exe.config
+C:\Users\Basil\Dropbox\Basil\Projects\Scraping\Email Webscraper\Email Webscraper\bin\Release\Email Webscraper.exe
+C:\Users\Basil\Dropbox\Basil\Projects\Scraping\Email Webscraper\Email Webscraper\bin\Release\Email Webscraper.pdb
+C:\Users\Basil\Dropbox\Basil\Projects\Scraping\Email Webscraper\Email Webscraper\bin\Release\Email Webscraper.xml
+C:\Users\Basil\Dropbox\Basil\Projects\Scraping\Email Webscraper\Email Webscraper\obj\Release\Webscraper.Form1.resources
+C:\Users\Basil\Dropbox\Basil\Projects\Scraping\Email Webscraper\Email Webscraper\obj\Release\Webscraper.Resources.resources
+C:\Users\Basil\Dropbox\Basil\Projects\Scraping\Email Webscraper\Email Webscraper\obj\Release\Email Webscraper.vbproj.GenerateResource.Cache
+C:\Users\Basil\Dropbox\Basil\Projects\Scraping\Email Webscraper\Email Webscraper\obj\Release\Email Webscraper.exe
+C:\Users\Basil\Dropbox\Basil\Projects\Scraping\Email Webscraper\Email Webscraper\obj\Release\Email Webscraper.xml
+C:\Users\Basil\Dropbox\Basil\Projects\Scraping\Email Webscraper\Email Webscraper\obj\Release\Email Webscraper.pdb
